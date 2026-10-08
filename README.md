@@ -11,4 +11,3 @@ A collection of standalone HTML pages created as part of web development labs an
 | `timetable_lab2.html` | Timetable lab | Displays a weekly class timetable using an HTML table and embedded CSS styling. |
 | `README.md` | Project guide and file index | Describes the repository and provides this editable index of its files. |
 
-When adding or renaming a project file, update this table with its filename, purpose, and a short description.
