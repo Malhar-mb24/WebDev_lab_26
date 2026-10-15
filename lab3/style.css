@@ -1,0 +1,49 @@
+*{
+    padding:2px;
+    margin:1px;
+}
+
+#prop1{
+    color:darkseagreen;
+}
+
+div.sec1{
+     padding:10px;
+     color:rgb(6, 56, 84)
+}
+div.sec2{
+    padding:20px;
+    text-align:center;
+    border:2rem;
+    background-color:bisque
+}
+div.sec3{
+    border:1px solid grey;
+}
+.highlight-text {
+  font-family: "Courier New", monospace;
+  font-size: 1rem;
+  font-weight: bold;
+  font-style: italic;
+  color: #0a4a6f; 
+  background-color: #fff3e0; 
+}
+
+hr {
+  border: none;         
+  height: 1px;           
+  background-color: rgb(8, 39, 58); 
+}
+
+
+img.align {
+    display:block;
+    padding:20px;
+    
+    margin-left: auto;
+     margin-right: auto;
+    width:200px;
+    height:200px;
+
+}
+
